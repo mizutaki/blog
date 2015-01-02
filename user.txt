@@ -1,2 +1,3 @@
 add userA
 add userB
+fix add users
